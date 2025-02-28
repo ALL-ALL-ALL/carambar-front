@@ -20,7 +20,7 @@
 2. Ouvrir `index.html` dans un navigateur
 
 ## 👥 Auteurs
-[ixart allan]
+ixart allan
 
 ## 📄 Licence
 
