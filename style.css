@@ -36,24 +36,24 @@ body{
 
 
 /* pour custom limage eclaboussure1  */
-.custom-eclaboussure1{
+/* .custom-eclaboussure1{
     position: absolute;
     left: 190px;
     top: 30px;
 
-}
+} */
 
 
 /* pour custom limage eclaboussure 2 */
 
-.custom-eclaboussure2{
+/* .custom-eclaboussure2{
 
     position: absolute;  
-    transform: scaleX(-1);  /* pour avoir l'effet mirroir */
+    transform: scaleX(-1); 
     right: 200px;
     top: 30px;
 
-}
+} */
 /* correspond au  "texte Clique sur le bouton pour découvrir une blague!"!*/
 
 
